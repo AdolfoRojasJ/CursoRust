@@ -1,5 +1,5 @@
 # Curso Rust
-**Codes from the "[The Rust Programming Language](https://nostarch.com/rust-programming-language-2nd-edition)" book by Steve Klabnik and Carol Nichols**
+**Codes from the "[The Rust Programming Language](https://nostarch.com/rust-programming-language-2nd-edition)" book by Steve Klabnik and Carol Nichols**  
 This repository contains the codes from the book, including some exercises developed by myself.
 <div align="center">
   <img src="./.Resources/cover.jpg" alt="Rust_Cover" width="300" />
